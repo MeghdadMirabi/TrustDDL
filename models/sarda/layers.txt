@@ -1,0 +1,6 @@
+<class 'neural_network.centralized.layers.conv.Convolution'>
+<class 'neural_network.centralized.layers.exact_relu.ExactReLU'>
+<class 'neural_network.centralized.layers.fully_connected.FullyConnected'>
+<class 'neural_network.centralized.layers.exact_relu.ExactReLU'>
+<class 'neural_network.centralized.layers.fully_connected.FullyConnected'>
+<class 'neural_network.centralized.layers.softmax.Softmax'>

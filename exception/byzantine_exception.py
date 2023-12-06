@@ -1,0 +1,2 @@
+class ByzantineException(Exception):
+    pass
