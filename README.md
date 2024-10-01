@@ -129,3 +129,9 @@ RAY_ADDRESS='http://127.0.0.1:8265' ray job submit -- python3 ${evaluation_scrip
 ```
 
 on the head node (replace <code>${evaluation_script}</code> with the desired evaluation script).
+
+
+## Publication ##
+
+René Klaus Nikiel, Meghdad Mirabi, Carsten Binnig. (2024). **TrustDDL: A Privacy-Preserving Byzantine-Robust Distributed Deep Learning Framework**. In: Dependable and Secure Machine Learning (TrustKDD), Joint Workshop with the 54th IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2024), Brisbane, Australia, June 24-27, 2024.
+<p dir="auto"><a href="https://ieeexplore.ieee.org/abstract/document/10647023">The paper is available here.</a></p>
